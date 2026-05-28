@@ -22,7 +22,7 @@ title: Sound of DAFx
 email: firstname.lastname@aalto.fi
 description: >- # this means to ignore newlines until "baseurl:"
   This is the example accompanying repository for the Sound of DAFx special issue.
-baseurl: "/ShoeboxEnergyDecay" # the subpath of your site, e.g. /blog
+baseurl: "/SoundOfDAF×" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  SebastianJiroSchlecht
